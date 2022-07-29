@@ -7,7 +7,8 @@
     "jha": "./bin/jhajhria.js"
   },
   "files": [
-    "bin"
+    "bin",
+    "main.js"
   ],
   "scripts": {
     "build": "rollup -c",
