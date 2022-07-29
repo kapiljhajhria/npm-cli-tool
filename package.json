@@ -4,7 +4,7 @@
   "description": "test cli package",
   "main": "./bin/cli.js",
   "bin": {
-    "jhajhria": "./bin/cli.js"
+    "jha": "./bin/jhajhria.js"
   },
   "files": [
     "bin"
